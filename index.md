@@ -11,19 +11,22 @@ Generative Adversarial Networks, Object detection, Continual learning, Optimisat
 
 ## Research Projects
 
-#### Analysing and quantifying mode missing in Generative Adversarial Networks
+#### Analysing and quantifying mode missing in Generative Adversarial Networks[link](https://rahulvallivel.github.io/Analysing-Mode-missing/)
+___
 
 **with Sapana Chaudhary (IIT Madras), [Dr. Mitesh Khapra](https://www.cse.iitm.ac.in/~miteshk/), [Dr. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/)**
 
 We analyse various issues with training Generative Adversarial Networks(GANs). We concentrate specifically on the problem of missing modes in generative densities modelled by GANs.
 
 #### Mycotech
+___
 
 **with the help of [HTIC](https://htic.iitm.ac.in/index.html)**
 
 Mycotech is a wearable device which can detect the onset of tonic-clonic epileptic seizure in the tonic phase and can warn the relatives of the user. The device can also detect onset of muscle fatigue and can give feedback to the user. The device also sends data to the cloud which can be used by an authorised Doctor to check the health status of his patient.
 
 #### Multi-label classification of EMG Data for neural control of robotic prosthetics
+___
 
 Designed and implemented a deep convolutional neural network to classify finger movements using EMG signal. Previous approaches did not use deep networks due to lack of large datasets. We were able to use deep neural networks by encoding the EMG signal as an image using Time-frequency analysis and using data augmentation techniques. Our approach yielded better accuracy than existing works.
 

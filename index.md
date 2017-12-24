@@ -31,6 +31,10 @@ We analyse various issues with training Generative Adversarial Networks(GANs). W
 
 Mycotech is a wearable device which can detect the onset of tonic-clonic epileptic seizure in the tonic phase and can warn the relatives of the user. The device can also detect onset of muscle fatigue and can give feedback to the user. The device also sends data to the cloud which can be used by an authorised Doctor to check the health status of his patient.
 
+#### Multi-label classification of EMG Data for neural control of robotic prosthetics
+
+Designed and implemented a deep convolutional neural network to classify finger movements using EMG signal. Previous approaches did not use deep networks due to lack of large datasets. We were able to use deep neural networks by encoding the EMG signal as an image using Time-frequency analysis and using data augmentation techniques. Our approach yielded better accuracy than existing works.
+
 ### [](#header-3)Header 3
 
 ```js

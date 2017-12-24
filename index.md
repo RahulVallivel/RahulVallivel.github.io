@@ -20,6 +20,8 @@ Generative Adversarial Networks, Object detection, Continual learning, Optimisat
 ## Research Projects
 
 #### Analysing and quantifying mode missing in Generative Adversarial Networks
+with Sapana Chaudhary,[Dr. Mitesh Khapra](https://www.cse.iitm.ac.in/~miteshk/)
+
 ### [](#header-3)Header 3
 
 ```js
